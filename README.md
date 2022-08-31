@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martinLucidarme, Agronomist engineer Brasil with a French-Brazilian degree.
+- 👋 Hi, I’m @martinLucidarme, Agronomist engineer in Brazil with a French-Brazilian degree.
 - 👀 I’m interested in Agriculture, environment, science
 - 🌱 I’m currently learning Python and Java (rest API)
 - 💞️ I’m looking to collaborate on environment friendly projects
